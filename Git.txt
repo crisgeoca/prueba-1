@@ -9,3 +9,7 @@ PREREQUISITE: Have a Git account, register https://github.com/
 	- git clone
 	- git init
 	- git checkout -b master //Apply changes
+	- git status
+	- git add <file>
+	- git commit -m "first commit"
+	- git push -u origin master
