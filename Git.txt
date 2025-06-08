@@ -13,3 +13,5 @@ PREREQUISITE: Have a Git account, register https://github.com/
 	- git add <file>
 	- git commit -m "first commit"
 	- git push -u origin master
+
+- Aca Jon esta haciendo cambios
